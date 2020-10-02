@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #333;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(189, 189, 189);
+}
+#cabecera{
+    background-color: rgb(0, 21, 61);
+    color: rgb(218, 216, 216);
+    margin: 20px 30px;
+    padding: 1em;
+    font-weight: bold;
+    box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.5);
+    font-size: 30px;
+}
+#cabecera #tagline{
+    padding: 1em 0 0 15px;
+    font-weight: normal;
+    font-size: 22px;
+}
+#container{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    margin: 30px auto;
+    box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.5);
+
+}
+#container #post{
+    background-color: rgb(214, 214, 214);
+    margin: 0 30px 30px ;
+    padding: 15px;
+    box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.5);
+}
+#container h1{
+    font-size: 20px;
+}
