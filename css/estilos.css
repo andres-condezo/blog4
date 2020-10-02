@@ -16,6 +16,10 @@ body{
     box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.5);
     font-size: 30px;
 }
+#cabecera #logo{
+    width: 23px;
+    vertical-align: middle;
+}
 #cabecera #tagline{
     padding: 1em 0 0 15px;
     font-weight: normal;
