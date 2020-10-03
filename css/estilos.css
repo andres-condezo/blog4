@@ -42,6 +42,9 @@ body{
 #container h1{
     font-size: 20px;
 }
+#git-img{
+    width: 80%;
+}
 #footer {
 	background-color: #777;
 	color: white;
