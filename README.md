@@ -4,4 +4,4 @@ Un blog creado para la clase de  Git y GitHub en [Platzi](https://platzi.com/ "P
 > Este es un curso de Git y GitHub muy completo.
 - Alumno
 
-Este es un **readme **de ejemplo para el curso, no te lo tomes en serio.
+Este es un **readme** de ejemplo para el curso, no te lo tomes en serio.
